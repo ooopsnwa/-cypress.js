@@ -1,1 +1,2 @@
-# -cypress.js
+# cypress.js
+Автотесты на cypress
